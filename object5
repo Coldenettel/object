@@ -1,0 +1,9 @@
+var instructor = {
+  firstName: "Christian",
+  sayHi: function(){
+    return "Hey";
+  },
+  sayBye: function(){
+    return this.firstName " + "says bye!";
+  }
+}
