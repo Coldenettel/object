@@ -1,0 +1,7 @@
+var preferredNumber = 12;
+
+var teacher = {
+  firstName: "Christian"
+}
+
+teacher[preferredNumber] = "That is my favorite ";
