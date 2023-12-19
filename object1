@@ -1,0 +1,6 @@
+function makeInstructor(firstName, lastName){
+  return {
+    firstName: firstName,
+    lastName: lastName
+  };
+}
