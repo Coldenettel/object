@@ -1,0 +1,9 @@
+const instructor = {
+  firstName: "Christian",
+  sayHey(){
+    return "Hey!";
+  },
+  sayBye(){
+    return this.firstName + " says bye!";
+  }
+} 
