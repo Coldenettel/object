@@ -1,0 +1,6 @@
+let favoriteNumber = 12;
+
+const instructor = {
+  firstName: "Christian",
+  [favoriteNumber]: "That is my favorite!"
+}
